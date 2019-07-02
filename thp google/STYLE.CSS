@@ -1,0 +1,13 @@
+ *
+ {
+  color :gray;
+}
+
+
+/*Header*/
+
+h1,h2
+{
+    
+   text-align: flex-end; 
+}
